@@ -1,6 +1,7 @@
 # Data-Cleaning-Customer-Purchases
 
 #Overview
+
 This project involves cleaning and preprocessing a customer-purchases dataset using Excel to prepare it for analysis.
 The customer-purchases dataset contains about 10 rows and 7 columns, including variables such as,
 - Customer-ID
