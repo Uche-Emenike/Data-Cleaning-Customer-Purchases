@@ -22,7 +22,7 @@ The following data Cleaning steps were performed using Excel.
 The data Cleaning was done using the following Excel Files(original and Cleaned dataset
 [Data Cleaning Project 1.xlsx](https://github.com/user-attachments/files/18813158/Data.Cleaning.Project.1.xlsx)
 
-# Formula and Functions used 
+# Formulas and Functions used 
 The following Excel functions and formulas were used for the data cleaning.
 - =Average(),=Median() and =PROPER(LEFT(RANGE,FIND("",RANGE,)-1)) for handing missing values.
 - = TEXT_TO_COLUMNS() and = DATAVAUE() for date format.
